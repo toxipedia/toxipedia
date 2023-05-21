@@ -1,4 +1,4 @@
-baseURL = "https://linux.ucla.edu/noble"
+baseURL = "/"
 languageCode = "en-us"
 title = "Toxipedia"
 theme = 'hugo-theme-diary'
