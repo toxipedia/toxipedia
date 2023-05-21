@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Toxipedia</title>
-    <link>https://linux.ucla.edu/noble/categories/</link>
+    <link>https://toxipedia.github.io/categories/</link>
     <description>Recent content in Categories on Toxipedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2023 20:42:50 -0700</lastBuildDate><atom:link href="https://linux.ucla.edu/noble/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 20:42:50 -0700</lastBuildDate><atom:link href="https://toxipedia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amino Acid</title>
-      <link>https://linux.ucla.edu/noble/categories/amino-acid/</link>
+      <link>https://toxipedia.github.io/categories/amino-acid/</link>
       <pubDate>Wed, 26 Apr 2023 20:42:50 -0700</pubDate>
       
-      <guid>https://linux.ucla.edu/noble/categories/amino-acid/</guid>
+      <guid>https://toxipedia.github.io/categories/amino-acid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>water soluble</title>
-      <link>https://linux.ucla.edu/noble/categories/water-soluble/</link>
+      <link>https://toxipedia.github.io/categories/water-soluble/</link>
       <pubDate>Wed, 26 Apr 2023 20:42:50 -0700</pubDate>
       
-      <guid>https://linux.ucla.edu/noble/categories/water-soluble/</guid>
+      <guid>https://toxipedia.github.io/categories/water-soluble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>peptide</title>
-      <link>https://linux.ucla.edu/noble/categories/peptide/</link>
+      <link>https://toxipedia.github.io/categories/peptide/</link>
       <pubDate>Mon, 17 Apr 2023 16:01:45 -0700</pubDate>
       
-      <guid>https://linux.ucla.edu/noble/categories/peptide/</guid>
+      <guid>https://toxipedia.github.io/categories/peptide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>protein bound</title>
-      <link>https://linux.ucla.edu/noble/categories/protein-bound/</link>
+      <link>https://toxipedia.github.io/categories/protein-bound/</link>
       <pubDate>Thu, 02 Feb 2023 15:11:18 -0700</pubDate>
       
-      <guid>https://linux.ucla.edu/noble/categories/protein-bound/</guid>
+      <guid>https://toxipedia.github.io/categories/protein-bound/</guid>
       <description></description>
     </item>
     

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition-Muscle on Toxipedia</title>
-    <link>https://linux.ucla.edu/noble/tags/nutrition-muscle/</link>
+    <link>https://toxipedia.github.io/tags/nutrition-muscle/</link>
     <description>Recent content in Nutrition-Muscle on Toxipedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 01:14:21 -0700</lastBuildDate><atom:link href="https://linux.ucla.edu/noble/tags/nutrition-muscle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 01:14:21 -0700</lastBuildDate><atom:link href="https://toxipedia.github.io/tags/nutrition-muscle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L-Homocitrulline</title>
-      <link>https://linux.ucla.edu/noble/homocitrulline/</link>
+      <link>https://toxipedia.github.io/homocitrulline/</link>
       <pubDate>Wed, 01 Feb 2023 01:14:21 -0700</pubDate>
       
-      <guid>https://linux.ucla.edu/noble/homocitrulline/</guid>
-      <description>Alternative Names  L-Citrulline
+      <guid>https://toxipedia.github.io/homocitrulline/</guid>
+      <description>Alternative Names L-Citrulline
 2-Amino-5-(carbamoylamino)pentanoic acid
 N (6)-carbamoyl-L-lysine
- Classification  Polar
+Classification Polar
 Amino acid
 Protein-bound
- Molecular Information  Weight: 131.17 [1]
+Molecular Information Weight: 131.17 [1]
 Formula: C6H13N3O3 [1]
 Classification: amino acid [3]
-  L-homocitrulline is a L-lysine derivative that is L-lysine having a carbamoyl group at the N(6)-position. It is found in individuals with urea cycle disorders. Homocitrulline is a one of the products of protein carbamylation is which is formed by binding isocyanic acid to the ε-NH2 group of the side chain of lysine residues [4].</description>
+L-homocitrulline is a L-lysine derivative that is L-lysine having a carbamoyl group at the N(6)-position. It is found in individuals with urea cycle disorders. Homocitrulline is a one of the products of protein carbamylation is which is formed by binding isocyanic acid to the ε-NH2 group of the side chain of lysine residues [4].</description>
     </item>
     
   </channel>

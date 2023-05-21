@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>peptide on Toxipedia</title>
-    <link>https://linux.ucla.edu/noble/categories/peptide/</link>
+    <link>https://toxipedia.github.io/categories/peptide/</link>
     <description>Recent content in peptide on Toxipedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2023 16:01:45 -0700</lastBuildDate><atom:link href="https://linux.ucla.edu/noble/categories/peptide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Apr 2023 16:01:45 -0700</lastBuildDate><atom:link href="https://toxipedia.github.io/categories/peptide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myostatin</title>
-      <link>https://linux.ucla.edu/noble/myostatin/</link>
+      <link>https://toxipedia.github.io/myostatin/</link>
       <pubDate>Mon, 17 Apr 2023 16:01:45 -0700</pubDate>
       
-      <guid>https://linux.ucla.edu/noble/myostatin/</guid>
+      <guid>https://toxipedia.github.io/myostatin/</guid>
       <description></description>
     </item>
     
