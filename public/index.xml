@@ -1,0 +1,177 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="https://pubmed.ncbi.nlm.nih.gov/rss/search/1X9MO_201KJDQLcj05Nvzta1Id2nl8y7pss40102ZP6FDvbwfD/?limit=100&utm_campaign=pubmed-2&fc=20230504143725">
+  <channel>
+    <title>Toxipedia</title>
+    <link>https://linux.ucla.edu/noble/</link>
+    <description>Recent content on Toxipedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 20:42:50 -0700</lastBuildDate>
+    
+        <atom:link href="https://linux.ucla.edu/noble/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Example Page (Homocitrulline)</title>
+        <link>https://linux.ucla.edu/noble/example_page/</link>
+        <pubDate>Wed, 26 Apr 2023 20:42:50 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/example_page/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/example_page/ -&lt;h1 id=&#34;alternative-names&#34;&gt;Alternative Names&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;L-Homocitrulline&lt;br&gt;
+N6-carbamoyl-L-lysine&lt;br&gt;
+N6-(aminocarbonyl)-L-lysine&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;classification&#34;&gt;Classification&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Polar&lt;br&gt;
+Water soluble uremic toxin&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;molecular-information&#34;&gt;Molecular Information&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Weight: 131.17 [&lt;a href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline&#34;&gt;1&lt;/a&gt;]&lt;br&gt;
+Formula: C6H13N3O3 [&lt;a href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline&#34;&gt;1&lt;/a&gt;]&lt;br&gt;
+Classification: amino acid [&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6168896/&#34;&gt;3&lt;/a&gt;]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;general-information&#34;&gt;General Information&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;L-Homocitrulline is an amino acid and a &lt;a href=&#34;https://en.wikipedia.org/wiki/metabolite&#34;&gt;metabolite&lt;/a&gt; of [&lt;a href=&#34;https://en.wikipedia.org/wiki/ornithine&#34;&gt;ornithine&lt;/a&gt;] in mammalian (including human) metabolism. The amino acid can be detected in larger amounts in the [&lt;a href=&#34;https://en.wikipedia.org/wiki/urine&#34;&gt;urine&lt;/a&gt;] of individuals with [&lt;a href=&#34;https://en.wikipedia.org/wiki/urea&#34;&gt;urea&lt;/a&gt;] cycle disorders. At present, it is thought that the depletion of the [&lt;a href=&#34;https://en.wikipedia.org/wiki/ornithine&#34;&gt;ornithine&lt;/a&gt;] supply causes the accumulation of carbamyl-phosphate in the urea cycle which may be responsible for the enhanced synthesis of homocitrulline and [&lt;a href=&#34;https://en.wikipedia.org/wiki/homoarginine&#34;&gt;homoarginine&lt;/a&gt;]. Both amino acids can be detected in urine. Amino acid analysis allows for the quantitative analysis of these amino acid metabolites in biological fluids such as urine or [&lt;a href=&#34;https://en.wikipedia.org/wiki/blood&#34;&gt;blood&lt;/a&gt;].&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Homocitrulline is one methylene group longer than [&lt;a href=&#34;https://en.wikipedia.org/wiki/citrulline/&#34;&gt;citrulline&lt;/a&gt;], but similar in structure. The metabolite is generated from a lysine residue after [&lt;a href=&#34;https://en.wikipedia.org/wiki/lysine/&#34;&gt;lysine&lt;/a&gt;] reacts with [&lt;a href=&#34;https://en.wikipedia.org/wiki/cyanate/&#34;&gt;cyanate&lt;/a&gt;]. Cyanate is present in the human body in equilibrium with urea. Under physiological conditions the urea concentration may be too low to allow extensive carbamylation. However, the conversion process leading to the formation of homocitrulline from lysine in proteins is known to occur in vivo. During [&lt;a href=&#34;https://en.wikipedia.org/wiki/Kidney_failure&#34;&gt;renal failure&lt;/a&gt;] conditions, the urea concentration increases and carbamylation of many proteins can occur, which can be detected. It is believed that most [&lt;a href=&#34;https://en.wikipedia.org/wiki/carbamylation/&#34;&gt;carbamylation&lt;/a&gt;] takes place during inflammation when the enzyme [&lt;a href=&#34;https://en.wikipedia.org/wiki/myeloperoxidase/&#34;&gt;myeloperoxidase&lt;/a&gt;] is released from [&lt;a href=&#34;https://en.wikipedia.org/wiki/neutrophil/&#34;&gt;neutrophil&lt;/a&gt;]s. This enzyme converts [&lt;a href=&#34;https://en.wikipedia.org/wiki/thiocyanate/&#34;&gt;thiocyanate&lt;/a&gt;] to cyanate. Increased levels of cyanate can now carbamylate lysine residues.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Myeloperoxidase released from neutrophils converts thiocyanate to cyanate which carbamylates lysine residues to form homocitrulline. Thiocyanate is a naturally occurring pseudohalide found in dietary sources. Myeloperoxidase can use SCN as a cosubstrate together with [&lt;a href=&#34;https://en.wikipedia.org/wiki/Hydrogen_peroxide&#34;&gt;hydrogen peroxide&lt;/a&gt;] to form cyanate. In patients with [&lt;a href=&#34;https://en.wikipedia.org/wiki/kidney/&#34;&gt;kidney&lt;/a&gt;] dysfunction urea is elevated. Urea is in equilibrium with cyanate and isocyanate. Carbamylation of nucleophilic amino groups, for example lysine residues, can modify protein structures and ultimately cause metabolic dysfunctions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;clinical-implications&#34;&gt;Clinical Implications&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;L-Homocitrulline has been associated with the following diseases:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Erectile dysfunction&lt;br&gt;
+Cardiovascular disease&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Homocitrulline has been suggested as a confounding antigen for [&lt;a href=&#34;&#34;&gt;rheumatoid arthritis&lt;/a&gt;] antibodies targeting citrullination proteins/peptides. Antibodies binding to homocitrulline-containing sequences have been found in rheumatoid arthritis patients&#39; sera. More recently, it has been shown that homocitrulline-containing proteins are present in rheumatoid arthritis ](RA) joints. In rodents they may affect T-cell triggering and possibly autoantibody formation, and possibly also in humans.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In another metabolic disorder, in the hyperornithinemia-hyperammonemia-homocitrullinuria (HHH) syndrome, first described in 1969, ornithine levels maybe elevated five to ten times in comparison to normal levels. In addition, in this syndrome, levels of [&lt;a href=&#34;https://en.wikipedia.org/wiki/alanine&#34;&gt;alanine&lt;/a&gt;], [&lt;a href=&#34;&#34;&gt;orotic acid&lt;/a&gt;] and homocitrulline may be elevated as well. In people with [&lt;a href=&#34;https://en.wikipedia.org/wiki/hyperammonemia&#34;&gt;hyperammonemia&lt;/a&gt;] orotic acid and homocitrulline appear to be chronically elevated after a high protein diet, but may be normal when fasting.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The metabolic disorder, lysinuric protein intolerance is caused by the body&amp;rsquo;s inability to digest and use certain protein building blocks or amino acids. These are lysine, [&lt;a href=&#34;https://en.wikipedia.org/wiki/arginine&#34;&gt;arginine&lt;/a&gt;], and ornithine. These amino acids are found in many protein-rich foods. Since in this disorder the human body cannot effectively break down these amino acids people typically experience [&lt;a href=&#34;https://en.wikipedia.org/wiki/nausea&#34;&gt;nausea&lt;/a&gt;] and vomiting after ingesting protein rich foods. Associated features of this protein intolerance may include an enlarged liver and [&lt;a href=&#34;https://en.wikipedia.org/wiki/spleen&#34;&gt;spleen&lt;/a&gt;], short stature, muscle weakness, impaired immune function, and progressively [&lt;a href=&#34;&#34;&gt;brittle bones&lt;/a&gt;] that are prone to fracture and a lung disorder called [&lt;a href=&#34;&#34;&gt;pulmonary alveolar proteinosis&lt;/a&gt;] may also develop. In addition, the accumulation of amino acids in the kidneys can cause [&lt;a href=&#34;&#34;&gt;end-stage renal disease&lt;/a&gt;] (ESRD).  In ESRD the kidneys are no longer able to filter fluids and waste products from the body effectively.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;APA National Center for Biotechnology Information (2022). PubChem Compound Summary for CID 79437, L-Homocitrulline. Retrieved October 17, 2022 from &lt;a href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline&#34;&gt;https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wishart DS, Tzur D, Knox C, et al., HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007 Jan;35(Database issue):D521-6. 17202168&lt;/li&gt;
+&lt;li&gt;Masakane I, Sakurai K. Current approaches to middle molecule removal: room for innovation. Nephrol Dial Transplant. 2018 Oct 1;33(suppl_3):iii12-iii21. doi: 10.1093/ndt/gfy224. Erratum in: Nephrol Dial Transplant. 2018 Dec 7;:null. PMID: 3028112&lt;/li&gt;
+&lt;li&gt;Jaisson, S., Kazes, I., Desmons, A., Fadel, F., Oudart, J.-B., Santos-Weiss, I. C. R., Millart, H., Touré, F., Rieu, P., &amp;amp; Gillery, P. (2016). Homocitrulline as marker of protein carbamylation in hemodialyzed patients. Clinica Chimica Acta, 460, 5–10. &lt;a href=&#34;https://doi.org/10.1016/j.cca.2016.06.009&#34;&gt;https://doi.org/10.1016/j.cca.2016.06.009&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Desmons, A., Jaisson, S., Pietrement, C., Rieu, P., Wynckel, A., &amp;amp; Gillery, P. (2016). Homocitrulline: A new marker for differentiating acute from chronic renal failure. Clinical Chemistry and Laboratory Medicine (CCLM), 54(1). &lt;a href=&#34;https://doi.org/10.1515/cclm-2015-0398&#34;&gt;https://doi.org/10.1515/cclm-2015-0398&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+- https://linux.ucla.edu/noble/example_page/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Syringol_sulfate</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/syringol_sulfate/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:22 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/syringol_sulfate/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/syringol_sulfate/ -- https://linux.ucla.edu/noble/autogenerated/syringol_sulfate/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Tartarate</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/tartarate/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:22 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/tartarate/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/tartarate/ -- https://linux.ucla.edu/noble/autogenerated/tartarate/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Pimelate_C7 DC</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/pimelate_c7-dc/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:21 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/pimelate_c7-dc/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/pimelate_c7-dc/ -- https://linux.ucla.edu/noble/autogenerated/pimelate_c7-dc/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Prolylglycine</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/prolylglycine/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:21 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/prolylglycine/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/prolylglycine/ -- https://linux.ucla.edu/noble/autogenerated/prolylglycine/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Pseudouridine</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/pseudouridine/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:21 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/pseudouridine/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/pseudouridine/ -- https://linux.ucla.edu/noble/autogenerated/pseudouridine/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Pyridoxate</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/pyridoxate/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:21 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/pyridoxate/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/pyridoxate/ -- https://linux.ucla.edu/noble/autogenerated/pyridoxate/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Quinate</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/quinate/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:21 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/quinate/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/quinate/ -- https://linux.ucla.edu/noble/autogenerated/quinate/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Quinolinate</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/quinolinate/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:21 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/quinolinate/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/quinolinate/ -- https://linux.ucla.edu/noble/autogenerated/quinolinate/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Ribonate</title>
+        <link>https://linux.ucla.edu/noble/autogenerated/ribonate/</link>
+        <pubDate>Thu, 20 Apr 2023 21:12:21 -0700</pubDate>
+        
+        <guid>https://linux.ucla.edu/noble/autogenerated/ribonate/</guid>
+        <description>Toxipedia https://linux.ucla.edu/noble/autogenerated/ribonate/ -- https://linux.ucla.edu/noble/autogenerated/ribonate/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 

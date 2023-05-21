@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arabonates on Toxipedia</title>
+    <link>https://linux.ucla.edu/noble/arabonate/</link>
+    <description>Recent content in Arabonates on Toxipedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2023 21:12:12 -0700</lastBuildDate><atom:link href="https://linux.ucla.edu/noble/arabonate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xylonate</title>
+      <link>https://linux.ucla.edu/noble/arabonate/xylonate/</link>
+      <pubDate>Thu, 20 Apr 2023 21:12:12 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/arabonate/xylonate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

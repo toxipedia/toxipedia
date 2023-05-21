@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citraconates on Toxipedia</title>
+    <link>https://linux.ucla.edu/noble/citraconate/</link>
+    <description>Recent content in Citraconates on Toxipedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2023 21:12:12 -0700</lastBuildDate><atom:link href="https://linux.ucla.edu/noble/citraconate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glutaconate</title>
+      <link>https://linux.ucla.edu/noble/citraconate/glutaconate/</link>
+      <pubDate>Thu, 20 Apr 2023 21:12:12 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/citraconate/glutaconate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

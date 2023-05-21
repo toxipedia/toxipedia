@@ -1,0 +1,299 @@
+[
+    {
+        "indexnumber": 61,
+        "toxinname": "5-hydroxyindole glucuronide",
+        "commentary": "Produced in the gut microbiota"
+    },
+    {
+        "indexnumber": 123,
+        "toxinname": "homocitrulline",
+        "commentary": "carbamylation"
+    },
+    {
+        "indexnumber": 126,
+        "toxinname": "hydroquinone sulfate",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 134,
+        "toxinname": "indoxyl glucuronide",
+        "commentary": "Produced in the gut microbiota and Protein-bound solutes"
+    },
+    {
+        "indexnumber": 138,
+        "toxinname": "kynurenine",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 142,
+        "toxinname": "methyl indole-3-acetate",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 160,
+        "toxinname": "N6-carboxyethyllysine",
+        "commentary": "AGEs and Protein-bound solutes"
+    },
+    {
+        "indexnumber": 197,
+        "toxinname": "p-cresol glucuronide",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 198,
+        "toxinname": "p-cresol sulfate",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 200,
+        "toxinname": "phenol glucuronide",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 201,
+        "toxinname": "phenol sulfate",
+        "commentary": "AGE"
+    },
+    {
+        "indexnumber": 241,
+        "toxinname": "β-2-Microglobulin",
+        "commentary": "It is a significant predictor of mortality in haemodialysis patients"
+    },
+    {
+        "indexnumber": 246,
+        "toxinname": "Vasoactive intestinal peptide (VIP)",
+        "commentary": "It may be employed as predictors of responsiveness to bronchodilatory therapy."
+    },
+    {
+        "indexnumber": 247,
+        "toxinname": "Vascular endothelial growth factor (VEGF)",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 250,
+        "toxinname": "Uric Acid",
+        "commentary": "Assessment of Dialysis effciacy"
+    },
+    {
+        "indexnumber": 251,
+        "toxinname": "Tumor Necrosis Factor Alpha (TNF)",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 253,
+        "toxinname": "Trimethylamine",
+        "commentary": "It has been positively identified and correlated with uremic fetor."
+    },
+    {
+        "indexnumber": 256,
+        "toxinname": "Symetric Dimethylarginine (SDMA)",
+        "commentary": "SDMA might be a useful parameter for detecting patients in very early stages of chronic kidney disease and for determining their risk for developing cardiovascular disease."
+    },
+    {
+        "indexnumber": 258,
+        "toxinname": "S-Adenosylhomocysteine",
+        "commentary": "is a more sensitive marker of clinical cardiovascular disease than Homocysteine."
+    },
+    {
+        "indexnumber": 259,
+        "toxinname": "Retinol Binding Protein (RBP)",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 261,
+        "toxinname": "Quinolinic Acid",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 265,
+        "toxinname": "Phenylacetic acid",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 266,
+        "toxinname": "Phenol",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 267,
+        "toxinname": "Pentosidine",
+        "commentary": "AGEs"
+    },
+    {
+        "indexnumber": 268,
+        "toxinname": "p-Cresylsulfate (total)",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 269,
+        "toxinname": "p-Cresylsulfate (free)",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 270,
+        "toxinname": "Orotidine",
+        "commentary": "Assessment of Dialysis effciacy"
+    },
+    {
+        "indexnumber": 271,
+        "toxinname": "Orotic Acid",
+        "commentary": "Assessment of Dialysis effciacy"
+    },
+    {
+        "indexnumber": 274,
+        "toxinname": "Neopterin",
+        "commentary": "Plasma marker of inflammation"
+    },
+    {
+        "indexnumber": 281,
+        "toxinname": "N(6)-Carboxymethyllysine (CML)",
+        "commentary": "AGEs"
+    },
+    {
+        "indexnumber": 286,
+        "toxinname": "Methylglyoxal",
+        "commentary": "AGEs"
+    },
+    {
+        "indexnumber": 289,
+        "toxinname": "Leptin",
+        "commentary": "Protein-bound solutes. Vascular calcification"
+    },
+    {
+        "indexnumber": 290,
+        "toxinname": "Kynurenic Acid",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 291,
+        "toxinname": "Kinurenine",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 292,
+        "toxinname": "Interleukin-6",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 293,
+        "toxinname": "Interleukin-1β",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 294,
+        "toxinname": "Interleukin-18",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 295,
+        "toxinname": "Interleukin-10",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 299,
+        "toxinname": "Indoxyl sulfate (total)",
+        "commentary": "Produced in the gut microbiota and Protein-bound solutes"
+    },
+    {
+        "indexnumber": 300,
+        "toxinname": "Indoxyl sulfate (free)",
+        "commentary": "Produced in the gut microbiota and Protein-bound solutes"
+    },
+    {
+        "indexnumber": 301,
+        "toxinname": "Indole-3-acetic acid (total)",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 302,
+        "toxinname": "Indole-3-acetic acid (free)",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 304,
+        "toxinname": "Hypoxanthine",
+        "commentary": "Assessment of Dialysis effciacy"
+    },
+    {
+        "indexnumber": 305,
+        "toxinname": "Hyaluronic acid (Hyaluronan)",
+        "commentary": "It may play a role in the pathogenesis of interstitial fibrosis in diabetic kidney disease."
+    },
+    {
+        "indexnumber": 306,
+        "toxinname": "Homocysteine",
+        "commentary": "It is an independent risk factor for atherosclerotic complications of ESRD"
+    },
+    {
+        "indexnumber": 307,
+        "toxinname": "Hippuric acid (total)",
+        "commentary": "Produced in the gut microbiota and Protein-bound solutes"
+    },
+    {
+        "indexnumber": 313,
+        "toxinname": "Glyoxal",
+        "commentary": "AGEs"
+    },
+    {
+        "indexnumber": 316,
+        "toxinname": "Endothelin",
+        "commentary": "Contributes to endothelial dysfunction and atherosclerosis. Middle-Molecular-Weight Molecules"
+    },
+    {
+        "indexnumber": 318,
+        "toxinname": "Dimethylamine",
+        "commentary": "Produced in the gut microbiota"
+    },
+    {
+        "indexnumber": 323,
+        "toxinname": "Cytidine",
+        "commentary": "CNS disturbances linked"
+    },
+    {
+        "indexnumber": 327,
+        "toxinname": "Cholecystokinin",
+        "commentary": "Appetite disturbances and Middle-Molecular-Weight Molecules"
+    },
+    {
+        "indexnumber": 330,
+        "toxinname": "Asymetric Dimethylarginine (ADMA)",
+        "commentary": "It is a strong and independent predictor of overall mortality and cardiovascular outcome"
+    },
+    {
+        "indexnumber": 335,
+        "toxinname": "Adiponectin",
+        "commentary": "CVD risk linked. Middle-Molecular-Weight Molecules"
+    },
+    {
+        "indexnumber": 343,
+        "toxinname": "3-Deoxyglucosone",
+        "commentary": "AGEs"
+    },
+    {
+        "indexnumber": 344,
+        "toxinname": "3-Carboxy-4-Methyl-5-Propyl-2-Furanpropanoic Acid",
+        "commentary": "Protein-bound solutes"
+    },
+    {
+        "indexnumber": 253,
+        "toxinname": "Trimethylamine-N-oxide (TMAO)",
+        "commentary": "In humans, a positive correlation between elevated plasma levels of TMAO and an increased risk for major adverse cardiovascular events and death is reported. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127123/ )"
+    },
+    {
+        "indexnumber": 241,
+        "toxinname": "Beta-2 Microglobulin",
+        "commentary": "“An increased amount in the blood or urine may be a sign of certain diseases, including some types of cancer, such as multiple myeloma or lymphoma.” (https://www.cancer.gov/publications/dictionaries/cancer-terms/def/beta-2-microglobulin )"
+    },
+    {
+        "toxinname": "Parathyroid Hormone",
+        "commentary": "“Uremic toxicity is in part attributable to the excess of circulating PTH. It has been known for many years that PTH may induce changes in cell calcium, a key intracellular signal required for normal cell function. “ (https://pubmed.ncbi.nlm.nih.gov/19708982/)"
+    },
+    {
+        "toxinname": "Guanidino succinic acid",
+        "commentary": "inhibit neutrophil superoxide production (https://pubmed.ncbi.nlm.nih.gov/10752527/)"
+    },
+    {
+        "toxinname": "guanidinopropionic acid",
+        "commentary": "inhibit neutrophil superoxide production (https://pubmed.ncbi.nlm.nih.gov/10752527/)\nGuanidines cause structural damage to proteins by deamidation/isomerization, which in turn reduces the binding of homocysteine (https://www.uptodate.com/contents/uremic-toxins/abstract/34)"
+    }
+]

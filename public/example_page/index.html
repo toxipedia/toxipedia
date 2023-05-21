@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html><head>
+<title>Example Page (Homocitrulline)</title>
+
+
+
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+      <script src="../noble/js/toc.js"></script>
+    
+    <link type="text/css" rel="stylesheet" href="../noble/vendor/css/bootstrap.min.css">
+<link rel="stylesheet" href="../noble/scss/journal.min.4a3263260cc6e1c797aa80e5c6d18c4d227cd8debdc75402578e1cadc711bd6a.css" integrity="sha256-SjJjJgzG4ceXqoDlxtGMTSJ82N69x1QCV44crccRvWo=" media="screen">
+
+
+
+<link rel="stylesheet" href="../noble/scss/dark-mode.min.7c687f74f17a8fea8e021a6a05efc26052e65330f6449e684977ded757a4a0c4.css" integrity="sha256-fGh/dPF6j&#43;qOAhpqBe/CYFLmUzD2RJ5oSXfe11ekoMQ=" media="screen">
+
+
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Material+Icons">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    	<div id="app"><div class="single-column-drawer-container" id="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="../noble/categories">
+                    Categories
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="../noble/tags">
+                    Clinical Implications
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="../noble/about">
+                    About this website
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="index.xml">
+                    RSS Feed
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#alternative-names" onclick="onNavClick(`#alternative-names-nav`)" id="alternative-names-nav">
+									Alternative Names
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#classification" onclick="onNavClick(`#classification-nav`)" id="classification-nav">
+									Classification
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#molecular-information" onclick="onNavClick(`#molecular-information-nav`)" id="molecular-information-nav">
+									Molecular Information
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#general-information" onclick="onNavClick(`#general-information-nav`)" id="general-information-nav">
+									General Information
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#clinical-implications" onclick="onNavClick(`#clinical-implications-nav`)" id="clinical-implications-nav">
+									Clinical Implications
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#references" onclick="onNavClick(`#references-nav`)" id="references-nav">
+									References
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav id="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div id="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a id="navTitle" class="navbar-brand" href="https://linux.ucla.edu/noble">
+            Toxipedia
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
+            <i class="material-icons" id="darkModeToggleIcon2">
+                dark_mode
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" id="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://linux.ucla.edu/noble">
+        <div class="single-column-header-title">Toxipedia</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+                <div id="streamContainer" class="stream-container">
+
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+                
+            
+
+            <div class="post-head-wrapper"
+                
+                    
+                    
+                    style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1a/HomoCitrulline.jpg')"
+                    
+                
+            >
+                <div class="post-title">
+                    Example Page (Homocitrulline)
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
+                            2023-04-26 20:42
+                        </time>
+                        
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="../noble/categories/">[Amino Acid Water Soluble]</a>
+                                &nbsp;
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="../noble/tags/uremic-toxin">Uremic Toxin</a>
+                                &nbsp;
+                            
+                                <a href="../noble/tags/toxin3">Toxin3</a>
+                                &nbsp;
+                            
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-body-wrapper">
+                
+                
+
+                <script type="text/javascript" src="../js/jmol/jsmol/JSmol.min.js"></script>
+                <script type="text/javascript" src="../js/jmol/jsmol/js/Jmol2.js"></script>
+                <script>jmolInitialize("/js/jmol/jsmol");</script>
+                <center>
+                <script type="text/javascript">
+                  jmolApplet(500, "load https:\/\/pubchem.ncbi.nlm.nih.gov\/rest\/pug\/compound\/CID\/65072\/record\/SDF\/?record_type=3d\u0026response_type=display; spacefill on; set ambient 60; set specpower 100; label %e; wireframe .3", "0");
+                </script>
+<div>
+<svg height="25" width="25">
+  <circle cx="10" cy="10" r="8" stroke="none" stroke-width="3" fill="red" />
+<i>= Oxygen</i>
+</svg>
+<svg height="25" width="25">
+  <circle cx="10" cy="10" r="8" stroke="none" stroke-width="3" fill="blue" />
+<i>= Nitrogen</i>    
+</svg>
+<svg height="25" width="25">
+  <circle cx="10" cy="10" r="8" stroke="black" stroke-width="1" fill="white" />
+<i>= Hydrogen</i>    
+</svg>
+<svg height="25" width="25">
+  <circle cx="10" cy="10" r="8" stroke="none" stroke-width="3" fill="grey" />
+<i>= Carbon</i>    
+</svg>
+<svg height="25" width="25">
+  <circle cx="10" cy="10" r="8" stroke="none" stroke-width="3" fill="yellow" />
+<i>= Sulfur</i>    
+</svg> 
+</div>
+              </center>
+              <pre tabindex="0" style="color:#d0d0d0;background-color:d0d0d0;padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 50px;">
+
+<span style="color:black;">Right click the model for more view options</span>
+<span style="color:black">Model sourced from<i> <a id="pubchemURL" style=color:red >PubChem</a></i> and rendered with <i><a style=color:orange href="https://jmol.sourceforge.net/" >JSmol.</a></i></span>
+<script>
+let link = "https://pubchem.ncbi.nlm.nih.gov/compound/";
+let text = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/CID/65072/record/SDF/?record_type=3d\u0026response_type=display"
+let result = link + text.slice(55,text.indexOf("/record"));
+document.getElementById('pubchemURL').setAttribute("href",result);
+
+</script>
+</pre>
+
+
+                <div class="post-body" v-pre>
+                
+                    <h1 id="alternative-names">Alternative Names</h1>
+<blockquote>
+<p>L-Homocitrulline<br>
+N6-carbamoyl-L-lysine<br>
+N6-(aminocarbonyl)-L-lysine</p>
+</blockquote>
+<h1 id="classification">Classification</h1>
+<blockquote>
+<p>Polar<br>
+Water soluble uremic toxin</p>
+</blockquote>
+<h1 id="molecular-information">Molecular Information</h1>
+<blockquote>
+<p>Weight: 131.17 [<a href="https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline">1</a>]<br>
+Formula: C6H13N3O3 [<a href="https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline">1</a>]<br>
+Classification: amino acid [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6168896/">3</a>]</p>
+</blockquote>
+<h1 id="general-information">General Information</h1>
+<blockquote>
+<p>L-Homocitrulline is an amino acid and a <a href="https://en.wikipedia.org/wiki/metabolite">metabolite</a> of [<a href="https://en.wikipedia.org/wiki/ornithine">ornithine</a>] in mammalian (including human) metabolism. The amino acid can be detected in larger amounts in the [<a href="https://en.wikipedia.org/wiki/urine">urine</a>] of individuals with [<a href="https://en.wikipedia.org/wiki/urea">urea</a>] cycle disorders. At present, it is thought that the depletion of the [<a href="https://en.wikipedia.org/wiki/ornithine">ornithine</a>] supply causes the accumulation of carbamyl-phosphate in the urea cycle which may be responsible for the enhanced synthesis of homocitrulline and [<a href="https://en.wikipedia.org/wiki/homoarginine">homoarginine</a>]. Both amino acids can be detected in urine. Amino acid analysis allows for the quantitative analysis of these amino acid metabolites in biological fluids such as urine or [<a href="https://en.wikipedia.org/wiki/blood">blood</a>].</p>
+</blockquote>
+<blockquote>
+<p>Homocitrulline is one methylene group longer than [<a href="https://en.wikipedia.org/wiki/citrulline/">citrulline</a>], but similar in structure. The metabolite is generated from a lysine residue after [<a href="https://en.wikipedia.org/wiki/lysine/">lysine</a>] reacts with [<a href="https://en.wikipedia.org/wiki/cyanate/">cyanate</a>]. Cyanate is present in the human body in equilibrium with urea. Under physiological conditions the urea concentration may be too low to allow extensive carbamylation. However, the conversion process leading to the formation of homocitrulline from lysine in proteins is known to occur in vivo. During [<a href="https://en.wikipedia.org/wiki/Kidney_failure">renal failure</a>] conditions, the urea concentration increases and carbamylation of many proteins can occur, which can be detected. It is believed that most [<a href="https://en.wikipedia.org/wiki/carbamylation/">carbamylation</a>] takes place during inflammation when the enzyme [<a href="https://en.wikipedia.org/wiki/myeloperoxidase/">myeloperoxidase</a>] is released from [<a href="https://en.wikipedia.org/wiki/neutrophil/">neutrophil</a>]s. This enzyme converts [<a href="https://en.wikipedia.org/wiki/thiocyanate/">thiocyanate</a>] to cyanate. Increased levels of cyanate can now carbamylate lysine residues.</p>
+</blockquote>
+<blockquote>
+<p>Myeloperoxidase released from neutrophils converts thiocyanate to cyanate which carbamylates lysine residues to form homocitrulline. Thiocyanate is a naturally occurring pseudohalide found in dietary sources. Myeloperoxidase can use SCN as a cosubstrate together with [<a href="https://en.wikipedia.org/wiki/Hydrogen_peroxide">hydrogen peroxide</a>] to form cyanate. In patients with [<a href="https://en.wikipedia.org/wiki/kidney/">kidney</a>] dysfunction urea is elevated. Urea is in equilibrium with cyanate and isocyanate. Carbamylation of nucleophilic amino groups, for example lysine residues, can modify protein structures and ultimately cause metabolic dysfunctions.</p>
+</blockquote>
+<h1 id="clinical-implications">Clinical Implications</h1>
+<p><em>L-Homocitrulline has been associated with the following diseases:</em></p>
+<blockquote>
+<p>Erectile dysfunction<br>
+Cardiovascular disease</p>
+</blockquote>
+<blockquote>
+<p>Homocitrulline has been suggested as a confounding antigen for [<a href="">rheumatoid arthritis</a>] antibodies targeting citrullination proteins/peptides. Antibodies binding to homocitrulline-containing sequences have been found in rheumatoid arthritis patients' sera. More recently, it has been shown that homocitrulline-containing proteins are present in rheumatoid arthritis ](RA) joints. In rodents they may affect T-cell triggering and possibly autoantibody formation, and possibly also in humans.</p>
+</blockquote>
+<blockquote>
+<p>In another metabolic disorder, in the hyperornithinemia-hyperammonemia-homocitrullinuria (HHH) syndrome, first described in 1969, ornithine levels maybe elevated five to ten times in comparison to normal levels. In addition, in this syndrome, levels of [<a href="https://en.wikipedia.org/wiki/alanine">alanine</a>], [<a href="">orotic acid</a>] and homocitrulline may be elevated as well. In people with [<a href="https://en.wikipedia.org/wiki/hyperammonemia">hyperammonemia</a>] orotic acid and homocitrulline appear to be chronically elevated after a high protein diet, but may be normal when fasting.</p>
+</blockquote>
+<blockquote>
+<p>The metabolic disorder, lysinuric protein intolerance is caused by the body&rsquo;s inability to digest and use certain protein building blocks or amino acids. These are lysine, [<a href="https://en.wikipedia.org/wiki/arginine">arginine</a>], and ornithine. These amino acids are found in many protein-rich foods. Since in this disorder the human body cannot effectively break down these amino acids people typically experience [<a href="https://en.wikipedia.org/wiki/nausea">nausea</a>] and vomiting after ingesting protein rich foods. Associated features of this protein intolerance may include an enlarged liver and [<a href="https://en.wikipedia.org/wiki/spleen">spleen</a>], short stature, muscle weakness, impaired immune function, and progressively [<a href="">brittle bones</a>] that are prone to fracture and a lung disorder called [<a href="">pulmonary alveolar proteinosis</a>] may also develop. In addition, the accumulation of amino acids in the kidneys can cause [<a href="">end-stage renal disease</a>] (ESRD).  In ESRD the kidneys are no longer able to filter fluids and waste products from the body effectively.</p>
+</blockquote>
+<h1 id="references">References</h1>
+<blockquote>
+<ol>
+<li>APA National Center for Biotechnology Information (2022). PubChem Compound Summary for CID 79437, L-Homocitrulline. Retrieved October 17, 2022 from <a href="https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline">https://pubchem.ncbi.nlm.nih.gov/compound/L-Homocitrulline</a></li>
+<li>Wishart DS, Tzur D, Knox C, et al., HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007 Jan;35(Database issue):D521-6. 17202168</li>
+<li>Masakane I, Sakurai K. Current approaches to middle molecule removal: room for innovation. Nephrol Dial Transplant. 2018 Oct 1;33(suppl_3):iii12-iii21. doi: 10.1093/ndt/gfy224. Erratum in: Nephrol Dial Transplant. 2018 Dec 7;:null. PMID: 3028112</li>
+<li>Jaisson, S., Kazes, I., Desmons, A., Fadel, F., Oudart, J.-B., Santos-Weiss, I. C. R., Millart, H., Touré, F., Rieu, P., &amp; Gillery, P. (2016). Homocitrulline as marker of protein carbamylation in hemodialyzed patients. Clinica Chimica Acta, 460, 5–10. <a href="https://doi.org/10.1016/j.cca.2016.06.009">https://doi.org/10.1016/j.cca.2016.06.009</a></li>
+<li>Desmons, A., Jaisson, S., Pietrement, C., Rieu, P., Wynckel, A., &amp; Gillery, P. (2016). Homocitrulline: A new marker for differentiating acute from chronic renal failure. Clinical Chemistry and Laboratory Medicine (CCLM), 54(1). <a href="https://doi.org/10.1515/cclm-2015-0398">https://doi.org/10.1515/cclm-2015-0398</a></li>
+</ol>
+</blockquote>
+
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Last modified on 2023-04-26</p>
+                    
+                </div>
+                <i>Author: Author_Name</i>
+            </div>
+
+
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts">
+			Next<br>No newer posts.
+                </a>
+                
+
+                
+                <a class="older-posts" href="../noble/autogenerated/syringol_sulfate/">
+			Previous<br>Syringol_sulfate
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+                    </div>
+            </div><div id="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://linux.ucla.edu/noble">
+    
+        <div class="nav-title">
+            Toxipedia
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="../noble/categories">
+                Categories
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="../noble/tags">
+                Clinical Implications
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="../noble/about">
+                About this website
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="index.xml">
+                RSS Feed
+            </a>
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        
+    </div>
+    
+</div><div id="extraContainer" class="extra-container">
+    
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#alternative-names" onclick="onNavClick(`#alternative-names-nav`)" id="alternative-names-nav">
+									Alternative Names
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#classification" onclick="onNavClick(`#classification-nav`)" id="classification-nav">
+									Classification
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#molecular-information" onclick="onNavClick(`#molecular-information-nav`)" id="molecular-information-nav">
+									Molecular Information
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#general-information" onclick="onNavClick(`#general-information-nav`)" id="general-information-nav">
+									General Information
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#clinical-implications" onclick="onNavClick(`#clinical-implications-nav`)" id="clinical-implications-nav">
+									Clinical Implications
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#references" onclick="onNavClick(`#references-nav`)" id="references-nav">
+									References
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+
+</div>
+    
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a type="button" class="pagination-action" id="darkModeToggleButton">
+            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
+                dark_mode
+            </span>
+        </a>
+        
+        
+    </div>
+</div>
+<div id="single-column-footer"></div>
+            </div>
+    
+    <script src="../noble/js/journal.js"></script></body>
+</html>

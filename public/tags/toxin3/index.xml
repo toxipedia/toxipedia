@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toxin3 on Toxipedia</title>
+    <link>https://linux.ucla.edu/noble/tags/toxin3/</link>
+    <description>Recent content in Toxin3 on Toxipedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 20:42:50 -0700</lastBuildDate><atom:link href="https://linux.ucla.edu/noble/tags/toxin3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Page (Homocitrulline)</title>
+      <link>https://linux.ucla.edu/noble/example_page/</link>
+      <pubDate>Wed, 26 Apr 2023 20:42:50 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/example_page/</guid>
+      <description>Alternative Names  L-Homocitrulline
+N6-carbamoyl-L-lysine
+N6-(aminocarbonyl)-L-lysine
+ Classification  Polar
+Water soluble uremic toxin
+ Molecular Information  Weight: 131.17 [1]
+Formula: C6H13N3O3 [1]
+Classification: amino acid [3]
+ General Information  L-Homocitrulline is an amino acid and a metabolite of [ornithine] in mammalian (including human) metabolism. The amino acid can be detected in larger amounts in the [urine] of individuals with [urea] cycle disorders. At present, it is thought that the depletion of the [ornithine] supply causes the accumulation of carbamyl-phosphate in the urea cycle which may be responsible for the enhanced synthesis of homocitrulline and [homoarginine].</description>
+    </item>
+    
+  </channel>
+</rss>

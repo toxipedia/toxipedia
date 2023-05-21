@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uremic toxin on Toxipedia</title>
+    <link>https://linux.ucla.edu/noble/tags/uremic-toxin/</link>
+    <description>Recent content in uremic toxin on Toxipedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 20:42:50 -0700</lastBuildDate><atom:link href="https://linux.ucla.edu/noble/tags/uremic-toxin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Page (Homocitrulline)</title>
+      <link>https://linux.ucla.edu/noble/example_page/</link>
+      <pubDate>Wed, 26 Apr 2023 20:42:50 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/example_page/</guid>
+      <description>Alternative Names  L-Homocitrulline
+N6-carbamoyl-L-lysine
+N6-(aminocarbonyl)-L-lysine
+ Classification  Polar
+Water soluble uremic toxin
+ Molecular Information  Weight: 131.17 [1]
+Formula: C6H13N3O3 [1]
+Classification: amino acid [3]
+ General Information  L-Homocitrulline is an amino acid and a metabolite of [ornithine] in mammalian (including human) metabolism. The amino acid can be detected in larger amounts in the [urine] of individuals with [urea] cycle disorders. At present, it is thought that the depletion of the [ornithine] supply causes the accumulation of carbamyl-phosphate in the urea cycle which may be responsible for the enhanced synthesis of homocitrulline and [homoarginine].</description>
+    </item>
+    
+    <item>
+      <title>Myostatin</title>
+      <link>https://linux.ucla.edu/noble/myostatin/</link>
+      <pubDate>Mon, 17 Apr 2023 16:01:45 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/myostatin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5-hydroxyindole glucuronide</title>
+      <link>https://linux.ucla.edu/noble/5-hydroxyindole/</link>
+      <pubDate>Tue, 14 Feb 2023 14:56:11 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/5-hydroxyindole/</guid>
+      <description>Alternative Names  5-hydroxyindole-3-glucuronide
+ Molecular Information  Weight: 308.24 g/mol [1]
+Formula: C13H12NO8 [1]
+Classification: Water-soluble uremic toxin [2]
+ General Information Clinical Implications 5-hydroxyindole glucuronide is a uremic toxin which is known to have an association with the following diseases:
+ Chronic kidney disease [3].
+ Classification  Polar Water-soluble uremic toxin
+ References   PubChem. 5-Hydroxyindole-3-glucuronide. Available from: https://pubchem.ncbi.nlm.nih.gov/compound/5-Hydroxyindole-3-glucuronide (accessed Nov 1, 2022). Masakane I, Sakurai K.</description>
+    </item>
+    
+    <item>
+      <title>Hydroquinone Sulfate</title>
+      <link>https://linux.ucla.edu/noble/hydroquinone_sulfate/</link>
+      <pubDate>Thu, 02 Feb 2023 15:11:18 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/hydroquinone_sulfate/</guid>
+      <description>Alternative Names  Benzene-1,4-diol Sulfate
+1,4-Dihydroxybenzene sulfate
+p-Hydroquinone sulfate
+ Molecular Information  Weight: 202.20 [1]
+Formula: C6H6O4S [1]
+Classification: water-soluble phenolic compound and solubilizer [3]
+ Origins  Hydroquinone sulfate is not naturally formed in the body, but is derived from topical or oral administration of hydroquinone products. It can be found in the blood and urine after application or consumption of hydroquinone, and its levels can be used to monitor the usage of hydroquinone in the body.</description>
+    </item>
+    
+    <item>
+      <title>1,3,7-trimethylurate</title>
+      <link>https://linux.ucla.edu/noble/trimethylurate/</link>
+      <pubDate>Wed, 01 Feb 2023 01:14:21 -0700</pubDate>
+      
+      <guid>https://linux.ucla.edu/noble/trimethylurate/</guid>
+      <description>Alternative Names  Trimethyl uric acid
+8-oxy-caffeine
+caffeol
+ Molecular Information  Weight: 210.19 [1]
+Formula: C8H10N4O3 [1]
+Classification: water-soluble uremic toxin [3]
+ General information  Trimethyluric acid is a methyl derivative of uric acid, found occasionally in human urine [2]. It is a metabolite of caffeine [1].
+  1,3,7-trimethylurate (TMU) is a uremic toxin that is produced by the metabolism of caffeine and theophylline in the liver. It is typically excreted in the urine, but in patients with kidney dysfunction or failure, TMU can accumulate in the bloodstream and cause toxic effects on various organ systems.</description>
+    </item>
+    
+  </channel>
+</rss>
