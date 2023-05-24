@@ -2,7 +2,7 @@
 title: "About This website"
 date: 2023-04-15T22:46:05-07:00
 draft: false
-featured_image: "https://i.imgur.com/99Kt1CK.png"
+featured_image: "https://i.imgur.com/TsICidH.png"
 author: Noble
 layout: about
 ---
