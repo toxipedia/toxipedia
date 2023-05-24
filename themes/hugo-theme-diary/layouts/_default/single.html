@@ -67,9 +67,9 @@
                 {{ else }}
                 {{ if .Params.moleculeURL }}
 
-                <script type="text/javascript" src="/js/jmol/jsmol/JSmol.min.js"></script>
-                <script type="text/javascript" src="/js/jmol/jsmol/js/Jmol2.js"></script>
-                <script>jmolInitialize("/js/jmol/jsmol");</script>
+                <script type="text/javascript" src="js/jmol/jsmol/JSmol.min.js"></script>
+                <script type="text/javascript" src="js/jmol/jsmol/js/Jmol2.js"></script>
+                <script>jmolInitialize("js/jmol/jsmol");</script>
                 <center>
                 <script type="text/javascript">
                   jmolApplet(500, "load {{ .Params.moleculeURL }}; spacefill on; set ambient 60; set specpower 100; label %e; wireframe .3", "0");
