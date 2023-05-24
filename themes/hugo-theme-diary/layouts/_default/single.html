@@ -67,9 +67,9 @@
                 {{ else }}
                 {{ if .Params.moleculeURL }}
 
-                <script type="text/javascript" src="js/jmol/jsmol/JSmol.min.js"></script>
-                <script type="text/javascript" src="js/jmol/jsmol/js/Jmol2.js"></script>
-                <script>jmolInitialize("js/jmol/jsmol");</script>
+                <script type="text/javascript" src="/toxipedia/js/jmol/jsmol/JSmol.min.js"></script>
+                <script type="text/javascript" src="/toxipedia/js/jmol/jsmol/js/Jmol2.js"></script>
+                <script>jmolInitialize("/toxipedia/js/jmol/jsmol");</script>
                 <center>
                 <script type="text/javascript">
                   jmolApplet(500, "load {{ .Params.moleculeURL }}; spacefill on; set ambient 60; set specpower 100; label %e; wireframe .3", "0");
@@ -112,9 +112,9 @@ document.getElementById('pubchemURL').setAttribute("href",result);
 
 {{ else if .Params.peptideURL }}
 
-<script type="text/javascript" src="/js/jmol/jsmol/JSmol.min.js"></script>
-                <script type="text/javascript" src="/js/jmol/jsmol/js/Jmol2.js"></script>
-                <script>jmolInitialize("/js/jmol/jsmol");</script>
+<script type="text/javascript" src="/toxpedia/js/jmol/jsmol/JSmol.min.js"></script>
+                <script type="text/javascript" src="/toxipedia/js/jmol/jsmol/js/Jmol2.js"></script>
+                <script>jmolInitialize("/toxipedia/js/jmol/jsmol");</script>
                 <center>
                 <script type="text/javascript">
                   jmolApplet(500, "load {{ .Params.peptideURL }}; set frank off; select all; hbonds off;select all; spin off; wireframe off; spacefill off; trace off; set ambient 40; set specpower 40; slab off; ribbons off; backbone off; cartoons off; label off; monitor off; rotate x -90; rotate y 60; select nucleic; color red; select protein; color magenta; select protein, nucleic; wireframe 80; ribbons; select hoh; wireframe off; spacefill off; select all; wireframe 60; delay .3; wireframe 40; delay .3; wireframe 20; delay .3; wireframe 10; delay .3; wireframe off; move 0 360 0 0 0 0 0 0 5; select protein; color structure; delay 1; move 0 80 0 0 0 0 0 0 4", "0");
