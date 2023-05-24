@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Endocrine on Toxipedia</title>
-    <link>toxipedia.github.io/toxipedia/tags/endocrine/</link>
+    <link>toxipedia.github.io/tags/endocrine/</link>
     <description>Recent content in Endocrine on Toxipedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 01:14:21 -0700</lastBuildDate><atom:link href="toxipedia.github.io/toxipedia/tags/endocrine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 01:14:21 -0700</lastBuildDate><atom:link href="toxipedia.github.io/tags/endocrine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L-Homocitrulline</title>
-      <link>toxipedia.github.io/toxipedia/homocitrulline/</link>
+      <link>toxipedia.github.io/homocitrulline/</link>
       <pubDate>Wed, 01 Feb 2023 01:14:21 -0700</pubDate>
       
-      <guid>toxipedia.github.io/toxipedia/homocitrulline/</guid>
+      <guid>toxipedia.github.io/homocitrulline/</guid>
       <description>Alternative Names L-Citrulline
 2-Amino-5-(carbamoylamino)pentanoic acid
 N (6)-carbamoyl-L-lysine

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>category 2 on Toxipedia</title>
-    <link>toxipedia.github.io/toxipedia/categories/category-2/</link>
+    <link>toxipedia.github.io/categories/category-2/</link>
     <description>Recent content in category 2 on Toxipedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2023 16:01:45 -0700</lastBuildDate><atom:link href="toxipedia.github.io/toxipedia/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Apr 2023 16:01:45 -0700</lastBuildDate><atom:link href="toxipedia.github.io/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myostatin</title>
-      <link>toxipedia.github.io/toxipedia/myostatin/</link>
+      <link>toxipedia.github.io/myostatin/</link>
       <pubDate>Mon, 17 Apr 2023 16:01:45 -0700</pubDate>
       
-      <guid>toxipedia.github.io/toxipedia/myostatin/</guid>
+      <guid>toxipedia.github.io/myostatin/</guid>
       <description></description>
     </item>
     
