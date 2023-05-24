@@ -1,9 +1,9 @@
-baseURL = "toxipedia.github.io"
+baseURL = "toxipedia.github.io/toxipedia"
 languageCode = "en-us"
 title = "Toxipedia"
 theme = 'hugo-theme-diary'
-relativeURLs = true
-cannonifyURLs = true
+relativeURLs = false
+cannonifyURLs = false
 #[[menu.main]]
 #url = "/middle"
 #name = "middle molecules"

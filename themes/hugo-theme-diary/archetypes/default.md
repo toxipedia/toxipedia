@@ -10,6 +10,6 @@ categories:
 comment: true
 draft: true
 moleculeURL: ".png"
-author: "babadoctor"
+author: ""
 
 ---
