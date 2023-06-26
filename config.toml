@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Toxipedia"
 theme = 'hugo-theme-diary'
 relativeURLs = false
-cannonifyURLs = false
+cannonifyURLs = true
 #[[menu.main]]
 #url = "/middle"
 #name = "middle molecules"
